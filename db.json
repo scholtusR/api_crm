@@ -1,0 +1,20 @@
+{
+  "clientes": [
+    {
+      "nombre": "Rodigo",
+      "empresa": "Solbayres",
+      "email": "scholtus32@gmail.com",
+      "telefono": "01167634907",
+      "notas": "Hola",
+      "id": 4
+    },
+    {
+      "nombre": "Paulina",
+      "empresa": "Paulina construcciones",
+      "email": "paulina@pau.com",
+      "telefono": "2029881818",
+      "notas": "Hola ",
+      "id": 5
+    }
+  ]
+}
